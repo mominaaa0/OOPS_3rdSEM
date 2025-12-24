@@ -1,6 +1,6 @@
 // 17/09/25
 
-/*Relativity Calculator 🚀
+/*Relativity Calculator 
 Time dilation & length contraction using special relativity formulas.
 Unique & rarely implemented in C. give programs
 */
